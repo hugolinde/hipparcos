@@ -6,7 +6,7 @@ In dit project gaan we het HR-diagram plotten aan de hand van data van 118 duize
 
 ## Hoe werkt het?
 
-Zie de uitgebreide 'Handleiding project Hipparcos data op HR diagram'
+Zie de uitgebreide 'Handleiding project Hipparcos data op HR diagram'. 
 Ik heb ook alvast het output diagram toegevoegd.
 
 ## Uitvoeren
