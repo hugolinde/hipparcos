@@ -1,4 +1,4 @@
-# project Hipparcos data op HR diagram (Python)
+# Hipparcos data op HR diagram (Python)
 
 Het Hertzsprung–Russell-diagram (kortweg HR-diagram) is een van de belangrijkste grafieken in de sterrenkunde. Het laat de relatie zien tussen de helderheid van sterren en hun temperatuur of kleur. 
 
