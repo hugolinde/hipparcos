@@ -4,7 +4,7 @@ data van 118 duizend sterren, direct uit de ESA Hipparcos satelliet (1989–1993
 
 Zie bijbehorend document met alle uitleg.
 
-Hugo van der Linde. Mei 2025.
+Hugo van der Linde.
 '''
 
 import pandas as pd
